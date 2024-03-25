@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
     );
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'SaveTok By Fazi',
+      title: 'SaveTok',
       theme: ThemeData(
         colorScheme: colorScheme,
         fontFamily: GoogleFonts.outfit().fontFamily,
