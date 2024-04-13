@@ -43,7 +43,7 @@ class _MainScreenState extends State<MainScreen> {
         backgroundColor: AppColors.backgroundColor,
         surfaceTintColor: AppColors.backgroundColor,
         title: const Text(
-          "Tiktok Save",
+          "SaveTok By Fazi",
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
       ),
